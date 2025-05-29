@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+pywavelets
+matplotlib
+statsmodels
+firebase-admin
